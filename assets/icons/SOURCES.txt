@@ -1,0 +1,3 @@
+Technology icons: https://github.com/devicons/devicon
+Retrieved: 2026-10-24
+License: LICENSE.txt

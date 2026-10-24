@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="142" viewBox="0 0 1200 142" role="img" aria-labelledby="title">
+  <title id="title">Business need, Requirements, Application, Validation</title>
+  <rect x="1" y="1" width="1198" height="140" rx="16" fill="#0f1c2b" stroke="#244253"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <g fill="#83d7c6" font-size="14" letter-spacing="2"><text x="32" y="40">01 / UNDERSTAND</text><text x="340" y="40">02 / DEFINE</text><text x="648" y="40">03 / BUILD</text><text x="956" y="40">04 / CHECK</text></g>
+    <g fill="#eef5fa" font-size="24" font-weight="600"><text x="32" y="79">Business need</text><text x="340" y="79">Requirements</text><text x="648" y="79">Application</text><text x="956" y="79">Validation</text></g>
+    <g fill="#a4bbc9" font-size="15"><text x="32" y="111">People &amp; processes</text><text x="340" y="111">Rules &amp; data</text><text x="648" y="111">UI &amp; API</text><text x="956" y="111">Acceptance criteria</text></g>
+  </g>
+  <g fill="none" stroke="#e7c68a" stroke-width="2"><path d="M280 72h25m-7-6 7 6-7 6"/><path d="M588 72h25m-7-6 7 6-7 6"/><path d="M896 72h25m-7-6 7 6-7 6"/></g>
+</svg>
